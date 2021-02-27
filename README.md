@@ -16,5 +16,5 @@ The instructions at the top of the page, aimed at students, is currently written
 
 ### Versions
 
-v1.1: Added correction sheet functionality.
+v1.1: Added correction sheet functionality.  
 v1.0: Initial version.
