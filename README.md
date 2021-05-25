@@ -14,6 +14,13 @@ The given PDF file is an example of how the generated worksheets look.
 It contains 3 worksheets + their corrections ready to be used.
 The instructions at the top of the page, aimed at students, is currently written in French. Get into the code to modify it into the desired language.
 
+## How to use
+
+Usage: python3 main.py irregular_verbs_list.csv <no. of starting page> <no. of pages> <PDF filename>
+  
+Example to get 100 pages numbered from 1 to 100 in a file named ```exercises.pdf```:
+```python3 main.py irregular_verbs_list.csv 1 100 exercises.pdf```
+
 ### Versions
 
 v1.2: Refactored code for scalability, cleanliness and performance. Generated 200 pages in ~1.5s (2010 Macbook A1342)  
