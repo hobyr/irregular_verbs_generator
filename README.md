@@ -16,5 +16,6 @@ The instructions at the top of the page, aimed at students, is currently written
 
 ### Versions
 
+v1.2: Refactored code for scalability, cleanliness and performance. Generated 200 pages in ~1.5s (2010 Macbook A1342)
 v1.1: Added correction sheet functionality.  
 v1.0: Initial version.
