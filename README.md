@@ -16,9 +16,10 @@ The instructions at the top of the page, aimed at students, is currently written
 
 ## How to use
 
-Usage: python3 main.py irregular_verbs_list.csv <no. of starting page> <no. of pages> <PDF filename>
+Usage:  
+```python3 main.py irregular_verbs_list.csv <no. of starting page> <no. of pages> <PDF filename>```
   
-Example to get 100 pages numbered from 1 to 100 in a file named ```exercises.pdf```:
+Example to get 100 pages numbered from 1 to 100 in a file named ```exercises.pdf```:  
 ```python3 main.py irregular_verbs_list.csv 1 100 exercises.pdf```
 
 ### Versions
